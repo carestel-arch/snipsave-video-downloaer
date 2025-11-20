@@ -1,7 +1,7 @@
 {
-  "name": "video-downloader-bot",
+  "name": "advanced-video-downloader-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for downloading videos from social media",
+  "description": "Advanced Telegram bot for downloading videos from all social media platforms",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -10,7 +10,8 @@
     "node-telegram-bot-api": "^0.64.0",
     "axios": "^1.6.0",
     "express": "^4.18.2",
-    "ytdl-core": "^4.11.5"
+    "ytdl-core": "^4.11.5",
+    "dotenv": "^16.0.0"
   },
   "engines": {
     "node": "18.x"
