@@ -1,5 +1,5 @@
 {
-  "name": "advanced-video-downloader-bot",
+  "name": "snipsave-video-downloader",
   "version": "1.0.0",
   "description": "Advanced Telegram bot for downloading videos from all social media platforms",
   "main": "bot.js",
